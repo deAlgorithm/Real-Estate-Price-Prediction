@@ -39,4 +39,4 @@ git clone https://github.com/deAlgorithm/Real-Estate-Price-Prediction
 
 ## License
 
-This project is licensed under the [MIT License](link-to-license).
+This project is licensed under the [MIT License](https://github.com/deAlgorithm/Real-Estate-Price-Prediction?tab=MIT-1-ov-file#).
