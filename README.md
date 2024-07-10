@@ -1,4 +1,8 @@
-# Real Estate Price Prediction
+
+![e9fedae579728eec19cf878ae53d7ae6](https://github.com/deAlgorithm/Real-Estate-Price-Prediction/assets/131563995/b42c9a28-f907-4694-a0fc-8a9566eabc6b)
+
+
+# Real Estate Price Prediction Project
 
 This project focuses on predicting property prices in Manila using Multiple Linear Regression to optimize property valuation. The objective is to enhance accuracy in property valuations amidst market volatility and localized influences.
 
@@ -23,10 +27,10 @@ This project focuses on predicting property prices in Manila using Multiple Line
 ## How to Use
 
 1. Clone the repository:
-```
-git clone https://github.com/deAlgorithm/Real-Estate-Price-Prediction
-```
-1. Open and explore the project files in Microsoft Excel.
+    ```bash
+    git clone https://github.com/deAlgorithm/Real-Estate-Price-Prediction
+    ```
+2. Open and explore the project files in Microsoft Excel.
 
 ## Future Enhancements
 
