@@ -23,6 +23,8 @@ This project focuses on predicting property prices in Manila using Multiple Line
 - **EDA:** Basic data exploration and summary statistics.
 - **Model Development:** Multiple Linear Regression model creation and validation.
 - **Model Evaluation:** Metrics and techniques used to evaluate model performance.
+## Screenshot of Predictive Calculator
+![image](https://github.com/deAlgorithm/Real-Estate-Price-Prediction/assets/131563995/f0c89653-e5c3-4ad9-85ac-7aa70743c9b1)
 
 ## How to Use
 
